@@ -1,0 +1,17 @@
+brotlipy==0.7.0
+certifi==2021.10.8
+cffi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/croot-2p6q7e2r/cffi_1642701115063/work
+charset-normalizer==2.0.12
+click @ file:///opt/concourse/worker/volumes/live/709f530a-8ffd-4e02-4f5f-9b3cfddd0e0b/volume/click_1646056616410/work
+cryptography @ file:///opt/concourse/worker/volumes/live/732d2752-e4cb-4715-726b-56d890f169fb/volume/cryptography_1639414586414/work
+Flask @ file:///opt/conda/conda-bld/flask_1648041541647/work
+idna @ file:///tmp/build/80754af9/idna_1637925883363/work
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+Jinja2 @ file:///opt/conda/conda-bld/jinja2_1647436528585/work
+MarkupSafe @ file:///opt/concourse/worker/volumes/live/c9141381-1dba-485b-7c96-99007bf7bcfd/volume/markupsafe_1621528150226/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+PySocks @ file:///opt/concourse/worker/volumes/live/85a5b906-0e08-41d9-6f59-084cee4e9492/volume/pysocks_1594394636991/work
+requests @ file:///opt/conda/conda-bld/requests_1641824580448/work
+urllib3==1.26.9
+Werkzeug @ file:///opt/conda/conda-bld/werkzeug_1645628268370/work
