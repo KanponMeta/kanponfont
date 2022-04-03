@@ -10,7 +10,7 @@ def kp_request_data(status, context):
 
 if __name__ == '__main__':
 
-    url = 'http://127.0.0.1:8080/userinfo'
+    url = 'http://127.0.0.1:8001/userinfo'
 
     # 注意这里必须以json字符串构造数据
     data = {
